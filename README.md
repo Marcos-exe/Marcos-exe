@@ -9,13 +9,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=css" height="60" alt="CSS logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=discord" height="60" alt="Discord logo" />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=figma" height="60" alt="Figma logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=gcp" height="60" alt="Google Cloud Platform logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="60" alt="Git logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=html" height="60" alt="HTML logo" />
   <img width="12" />
@@ -31,9 +25,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=supabase" height="60" alt="Supabase logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="60" alt="VSCode logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=windows" height="60" alt="Windows logo" />
 </div>
 
 ###
