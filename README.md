@@ -20,7 +20,7 @@ My name is Marcos Dêlcio Pinto Nhaga, I’m 17 years old and I’m from Portuga
   <a href="mailto:marcosdelcio324@gmail.com?subject=Hello&body=Hi Marcos, I would like to get in touch with you.">
     <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=628eda&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Email" />
   </a>
-  <a href="https://dev.to/seu-devto">
+  <a href="https://discord.com/users/queijoraladoplus">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=628eda&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Discord" />
   </a>
 </div>
