@@ -34,9 +34,9 @@ My name is Marcos Dêlcio Pinto Nhaga, I’m 17 years old and I’m from Portuga
 
 <div align="center">
   <img height="166" align="center" alt="GitHub Stats" 
-       src="https://github-readme-stats.vercel.app/api/?username=Marcos-exe&show_icons=true&count_private=true&rank_icon=github&theme=prussian&font=Iosevka&cache_seconds=3600"/>
+       src="https://github-readme-stats.vercel.app/api/?username=Marcos-exe&show_icons=true&count_private=true&rank_icon=github&theme=vue-dark&font=Iosevka&cache_seconds=3600"/>
   <img height="166" align="center" alt="Top Language" 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcos-exe&layout=compact&font=Iosevka&langs_count=16&theme=prussian&cache_seconds=3600"/>
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcos-exe&layout=compact&font=Iosevka&langs_count=16&theme=vue-dark&cache_seconds=3600"/>
   
   <br><br>
 </div>
