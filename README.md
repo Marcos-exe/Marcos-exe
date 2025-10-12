@@ -15,13 +15,13 @@ My name is Marcos Dêlcio Pinto Nhaga, I’m 17 years old and I’m from Portuga
 <!-- Social networks/contacts -->
 <div align="center">
   <a href="https://www.instagram.com/macos.xvz/">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=EE2A7B&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Instagram" />
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=628eda&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Instagram" />
   </a>
   <a href="mailto:marcosdelcio324@gmail.com?subject=Hello&body=Hi Marcos, I would like to get in touch with you.">
-    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Email" />
+    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=628eda&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Email" />
   </a>
   <a href="https://dev.to/seu-devto">
-    <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="dev.to" />
+    <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=628eda&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="dev.to" />
   </a>
 </div>
 
