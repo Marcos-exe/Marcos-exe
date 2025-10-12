@@ -21,7 +21,7 @@ My name is Marcos Dêlcio Pinto Nhaga, I’m 17 years old and I’m from Portuga
     <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=628eda&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Email" />
   </a>
   <a href="https://dev.to/seu-devto">
-    <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=628eda&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="dev.to" />
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=628eda&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Discord" />
   </a>
 </div>
 
