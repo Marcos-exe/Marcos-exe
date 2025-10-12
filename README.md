@@ -41,6 +41,8 @@ My name is Marcos Dêlcio Pinto Nhaga, I’m 17 years old and I’m from Portuga
 
 <!-- Programming languages and development tools -->
 <div align="center">
+  <img src="https://skillicons.dev/icons?i=tensorflow" height="60" alt="TensorFlow logo" />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=arduino" height="60" alt="Arduino logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=c" height="60" alt="C logo" />
