@@ -1,6 +1,9 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=628eda"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=628eda&text=Marcos&fontAlign=50&reversal=false&stroke=628eda&fontColor=C1D2F0&rotate=0"/>
 
-<h1 align="center">Hey 👋 What's Up?</h1>
+<div align="center" width="100%">
+  <img src="https://readme-typing-svg.demolab.com/demo/?weight=100&size=25&color=628EDA&center=true&vCenter=true&lines=I'm+from+Portugal.;I'm+a+Computer+Science+student.;Passionate+about+AI+and+Technology.;Welcome+to+my+profile!"/>
+</div>
+
 
 ###
 
@@ -59,3 +62,4 @@
 </picture>
 
 ###
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=628eda&fontAlign=50&reversal=false&stroke=628eda&fontColor=C1D2F0&rotate=0&section=footer"/>
