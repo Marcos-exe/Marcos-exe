@@ -36,12 +36,6 @@
   <a href="https://twitter.com/seu-twitter">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Twitter" />
   </a>
-  <a href="https://discord.com/users/seu-discord">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Discord" />
-  </a>
-  <a href="https://www.twitch.tv/seu-twitch">
-    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Twitch" />
-  </a>
   <a href="https://dev.to/seu-devto">
     <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="dev.to" />
   </a>
