@@ -11,6 +11,7 @@
 **`Future FullStack Developer`**
 
 My name is Marcos Dêlcio Pinto Nhaga, I’m 17 years old and I’m from Portugal. I’m currently in 12th grade, studying Technical Course in Computer Equipment Management. I’m passionate about technology, programming, and gaming, and I’m still learning and developing my skills in these areas.
+
 <!-- Social networks/contacts -->
 <div align="center">
   <a href="https://www.instagram.com/macos.xvz/">
