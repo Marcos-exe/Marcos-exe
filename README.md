@@ -1,5 +1,5 @@
 <!-- Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=628eda&text=Marcos&fontAlign=50&reversal=false&stroke=628eda&fontColor=C1D2F0&rotate=0"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=105&color=628eda&text=Marcos&fontAlign=50&reversal=false&stroke=628eda&fontColor=C1D2F0&rotate=0"/>
 
 <!-- Text machine -->
 <div align="center">
@@ -75,4 +75,4 @@ My name is Marcos Dêlcio Pinto Nhaga, I’m 17 years old and I’m from Portuga
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Marcos-exe/Marcos-exe/output/pacman-contribution-graph.svg">
 </picture>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=628eda&fontAlign=50&reversal=false&stroke=628eda&fontColor=C1D2F0&rotate=0&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=105&color=628eda&fontAlign=50&reversal=false&stroke=628eda&fontColor=C1D2F0&rotate=0&section=footer"/>
