@@ -1,7 +1,9 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=628eda&text=Marcos&fontAlign=50&reversal=false&stroke=628eda&fontColor=C1D2F0&rotate=0"/>
 
-<div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com/demo/?weight=100&size=25&color=628EDA&center=true&vCenter=true&lines=I'm+from+Portugal.;I'm+a+Computer+Science+student.;Passionate+about+AI+and+Technology.;Welcome+to+my+profile!"/>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=25&pause=1000&color=628EDA&center=true&vCenter=true&width=525&height=23&lines=I'm+from+Portugal.;I'm+a+Computer+Science+student.;Passionate+about+Games+and+Technology.;Welcome+to+my+profile!" alt="Typing SVG" />
+  </a>
 </div>
 
 
@@ -35,8 +37,8 @@
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/seu-linkedin">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn" />
+  <a href="[https://www.linkedin.com/in/seu-linkedin](https://www.instagram.com/macos.xvz/)">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Instagram" />
   </a>
   <a href="https://twitter.com/seu-twitter">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Twitter" />
