@@ -8,7 +8,7 @@
   </a>
 </div>
 
-**`FullStack Developer`**
+**`Future FullStack Developer`**
 
 My name is Marcos Dêlcio Pinto Nhaga, I’m 17 years old and I’m from Portugal. I’m currently in 12th grade, studying Technical Course in Computer Equipment Management. I’m passionate about technology, programming, and gaming, and I’m still learning and developing my skills in these areas.
 
@@ -30,7 +30,7 @@ My name is Marcos Dêlcio Pinto Nhaga, I’m 17 years old and I’m from Portuga
 ---
 
 <!-- Statistics panel -->
-### 📊 Statistics
+## 📊 Statistics
 
 <div align="center">
   <img height=180 align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/?username=Marcos-exe&show_icons=true&count_private=true&rank_icon=github&theme=tokyonight&font=Iosevka"/>
