@@ -29,6 +29,16 @@ My name is Marcos Dêlcio Pinto Nhaga, I’m 17 years old and I’m from Portuga
 
 ---
 
+<!-- Statistics panel -->
+### 📊 Statistics
+
+<div align="center">
+  <img height=180 align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/?username=Marcos-exe&show_icons=true&count_private=true&rank_icon=github&theme=tokyonight&font=Iosevka"/>
+  <img height=180 align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcos-exe&layout=compact&font=Iosevka&langs_count=16&theme=tokyonight"/>
+  <br>
+  <br>
+</div>
+
 <!-- Programming languages and development tools -->
 <div align="center">
   <img src="https://skillicons.dev/icons?i=arduino" height="60" alt="Arduino logo" />
@@ -57,14 +67,10 @@ My name is Marcos Dêlcio Pinto Nhaga, I’m 17 years old and I’m from Portuga
 
 <br/>
 
-<!-- Statistics panel -->
-### 📊 Statistics
-
-<div align="center">
-  <img height=180 align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/?username=Marcos-exe&show_icons=true&count_private=true&rank_icon=github&theme=tokyonight&font=Iosevka"/>
-  <img height=180 align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcos-exe&layout=compact&font=Iosevka&langs_count=16&theme=tokyonight"/>
-  <br>
-  <br>
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Marcos-exe/Marcos-exe/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Marcos-exe/Marcos-exe/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Marcos-exe/Marcos-exe/output/pacman-contribution-graph.svg">
+</picture>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=628eda&fontAlign=50&reversal=false&stroke=628eda&fontColor=C1D2F0&rotate=0&section=footer"/>
