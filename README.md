@@ -72,7 +72,7 @@ My name is Marcos Dêlcio Pinto Nhaga, I’m 17 years old and I’m from Portuga
 
 <br/>
 
-<!-- Pacman -->
+<!-- Pacman Contribution Graph-->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Marcos-exe/Marcos-exe/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Marcos-exe/Marcos-exe/output/pacman-contribution-graph.svg">
