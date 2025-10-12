@@ -1,14 +1,35 @@
+<!-- Header -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=628eda&text=Marcos&fontAlign=50&reversal=false&stroke=628eda&fontColor=C1D2F0&rotate=0"/>
 
+<!-- Text machine -->
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=25&pause=1000&color=628EDA&center=true&vCenter=true&width=525&height=23&lines=I'm+from+Portugal.;I'm+a+Computer+Science+student.;Passionate+about+Games+and+Technology.;Welcome+to+my+profile!" alt="Typing SVG" />
   </a>
 </div>
 
+**`FullStack Developer`**
 
-###
+My name is Marcos Dêlcio Pinto Nhaga, I’m 17 years old and I’m from Portugal. I’m currently in 12th grade, studying Technical Course in Computer Equipment Management. I’m passionate about technology, programming, and gaming, and I’m still learning and developing my skills in these areas.
 
+<!-- Social networks/contacts -->
+<div align="center">
+  <a href="https://www.instagram.com/macos.xvz/">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=EE2A7B&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Instagram" />
+  </a>
+  <a href="mailto:marcosdelcio324@gmail.com?subject=Hello&body=Hi Marcos, I would like to get in touch with you.">
+    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Email" />
+  </a>
+  <a href="https://dev.to/seu-devto">
+    <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="dev.to" />
+  </a>
+</div>
+
+
+
+---
+
+<!-- Programming languages and development tools -->
 <div align="center">
   <img src="https://skillicons.dev/icons?i=arduino" height="60" alt="Arduino logo" />
   <img width="12" />
@@ -34,34 +55,16 @@
   <img width="12" />
 </div>
 
-###
+<br/>
+
+<!-- Statistics panel -->
+### 📊 Statistics
 
 <div align="center">
-  <a href="[https://www.linkedin.com/in/seu-linkedin](https://www.instagram.com/macos.xvz/)">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Instagram" />
-  </a>
-  <a href="https://twitter.com/seu-twitter">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Twitter" />
-  </a>
-  <a href="https://dev.to/seu-devto">
-    <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="dev.to" />
-  </a>
+  <img height=180 align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/?username=Marcos-exe&show_icons=true&count_private=true&rank_icon=github&theme=tokyonight&font=Iosevka"/>
+  <img height=180 align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcos-exe&layout=compact&font=Iosevka&langs_count=16&theme=tokyonight"/>
+  <br>
+  <br>
 </div>
 
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Marcos-exe&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="Streak Graph" />
-  <img src="https://github-profile-trophy.vercel.app?username=Marcos-exe&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="Trophy Graph" />
-</div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Marcos-exe/Marcos-exe/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Marcos-exe/Marcos-exe/output/pacman-contribution-graph.svg">
-  <img alt="Pac-Man Contribution Graph" src="https://raw.githubusercontent.com/Marcos-exe/Marcos-exe/output/pacman-contribution-graph.svg">
-</picture>
-
-###
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=628eda&fontAlign=50&reversal=false&stroke=628eda&fontColor=C1D2F0&rotate=0&section=footer"/>
