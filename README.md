@@ -1,4 +1,5 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=628eda&text=Input%20text"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=628eda"/>
+
 <h1 align="center">Hey 👋 What's Up?</h1>
 
 ###
