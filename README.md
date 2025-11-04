@@ -48,6 +48,8 @@ My name is Marcos Dêlcio Pinto Nhaga, I’m 17 years old and I’m from Portuga
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=arduino" height="60" alt="Arduino logo" />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=php" height="60" alt="PHP logo" />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=c" height="60" alt="C logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=css" height="60" alt="CSS logo" />
