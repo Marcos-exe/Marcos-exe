@@ -44,11 +44,9 @@ My name is Marcos Dêlcio Pinto Nhaga, I’m 17 years old and I’m from Portuga
 
 <!-- Programming languages and development tools -->
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow" height="60" alt="TensorFlow logo" />
+  <img src="https://skillicons.dev/icons?i=typescript" height="60" alt="TypeScript logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=arduino" height="60" alt="Arduino logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=php" height="60" alt="PHP logo" />
+  <img src="https://skillicons.dev/icons?i=react" height="60" alt="React logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=c" height="60" alt="C logo" />
   <img width="12" />
@@ -62,13 +60,7 @@ My name is Marcos Dêlcio Pinto Nhaga, I’m 17 years old and I’m from Portuga
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="Node.js logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="60" alt="PostgreSQL logo" />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=py" height="60" alt="Python logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=raspberrypi" height="60" alt="Raspberry Pi logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=supabase" height="60" alt="Supabase logo" />
   <img width="12" />
 </div>
 
